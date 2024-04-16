@@ -3813,17 +3813,17 @@ hr {
 .button-black-outline, .button-black-outline:focus {
 	color: #151515;
 	background-color: transparent;
-	border-color: #151515;
+	border-color: #BE9867;
 }
 
 .button-black-outline:hover, .button-black-outline:active {
 	color: #151515;
-	background-color: #01b3a7;
-	border-color: #01b3a7;
+	background-color: #BE9867;
+	border-color: #BE9867;
 }
 
 .button-black-outline.button-ujarak::before {
-	background: #01b3a7;
+	background: #C89019;
 }
 
 .button-black-outline.button-pipaluk, .button-black-outline.button-pipaluk:focus {
@@ -9983,7 +9983,7 @@ h5 + .list-popular-product {
 	left: 14px;
 	width: 400%;
 	height: 100%;
-	background: #01b3a7;
+	background: #BE9867;
 	transform: skew(45deg);
 	transform-origin: 50% 100%;
 	will-change: transform;
@@ -13484,7 +13484,7 @@ html:not(.lt-ie10) .not-animated {
 	font-size: 20px;
 	line-height: 38px;
 	color: #ffffff;
-	background: #01b3a7;
+	background: #BE9867;
 	overflow: hidden;
 	text-align: center;
 	text-decoration: none;
@@ -13794,7 +13794,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-static .rd-nav-item.active > .rd-navbar-submenu-toggle {
-	color: #01b3a7;
+	color: #BE9867;
 }
 
 .rd-navbar-static .rd-nav-item.focus > .rd-navbar-submenu-toggle::before,
@@ -15049,7 +15049,7 @@ html.tablet .ui-to-top {
 
 .rd-navbar-fixed .rd-nav-item:hover .rd-nav-link, .rd-navbar-fixed .rd-nav-item.focus .rd-nav-link, .rd-navbar-fixed .rd-nav-item.active .rd-nav-link, .rd-navbar-fixed .rd-nav-item.opened .rd-nav-link {
 	color: #ffffff;
-	background: #01b3a7;
+	background: #BE9867;
 }
 
 .rd-navbar-fixed .rd-nav-item:hover > .rd-navbar-submenu-toggle, .rd-navbar-fixed .rd-nav-item.focus > .rd-navbar-submenu-toggle, .rd-navbar-fixed .rd-nav-item.active > .rd-navbar-submenu-toggle, .rd-navbar-fixed .rd-nav-item.opened > .rd-navbar-submenu-toggle {
@@ -17074,7 +17074,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-corporate.rd-navbar-static .rd-navbar-main-outer {
-	background: #162e44;
+	background-color: #9C7E62;
 }
 
 .rd-navbar-corporate.rd-navbar-static .rd-navbar-nav-wrap {
