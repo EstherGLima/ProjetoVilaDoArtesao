@@ -125,7 +125,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, [class*='heading-'] a {
 }
 
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, [class*='heading-'] a:hover {
-	color: #01b3a7;
+	color: #C89019;
 }
 
 h1,
@@ -8931,7 +8931,7 @@ textarea.textarea-lg {
 }
 
 .footer-corporate-inset .post-minimal-2 a:hover {
-	color: #50ba87;
+	color: #000000;
 }
 
 .footer-corporate-inset .list-marked li:before {
@@ -17284,7 +17284,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-corporate-list-social a:hover {
-	color: #50ba87;
+	color: black;
 }
 
 .rd-navbar-corporate-list-social .icon {
