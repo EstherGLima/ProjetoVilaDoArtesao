@@ -8794,13 +8794,13 @@ textarea.textarea-lg {
 
 @media (min-width: 992px) {
 	.footer-corporate-inset {
-		padding: 65px 0;
+		padding: 40px 0;
 	}
 }
 
 @media (min-width: 1200px) {
 	.footer-corporate-inset {
-		padding-top: 75px;
+		padding-top: 50px;
 	}
 }
 
