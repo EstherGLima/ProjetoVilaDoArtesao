@@ -305,11 +305,11 @@ a, a:focus, a:active, a:hover {
 }
 
 a, a:focus, a:active {
-	color: #01b3a7;
+	color: #AE7600;
 }
 
 a:hover {
-	color: #016760;
+	color: #AE7600;
 }
 
 a[href*='tel'], a[href*='mailto'] {
@@ -6527,8 +6527,9 @@ textarea.textarea-lg {
 }
 
 .quote-lisa-2 .quote-lisa-status {
-	color: #50ba87;
+	color: #AE7600;
 }
+
 
 .quote-lisa-body {
 	max-width: 880px;
@@ -6572,7 +6573,7 @@ textarea.textarea-lg {
 }
 
 .quote-lisa-status {
-	color: #01b3a7;
+	color: #AE7600;
 }
 
 * + .quote-lisa-status {
@@ -21168,7 +21169,7 @@ h1 + .tabs-line {
 
 .owl-dot::after {
 	opacity: 0;
-	background: #01b3a7;
+	background: #AE7600;
 	transform: translateY(-200%);
 	transition: transform 0.3s ease, opacity 0.3s ease, visibility 0s 0.3s;
 }
