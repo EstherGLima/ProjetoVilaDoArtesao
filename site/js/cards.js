@@ -1,6 +1,6 @@
-const cardsData = Array.from({ length: 83 }, (_, i) => i + 1);
+const cardsData = Array.from({ length: 30 }, (_, i) => i + 1);
 
-const imageUrls = Array.from({ length: 83 }, (_, i) => `fotos/finalimage/Chale/${i + 1}.png`);
+const imageUrls = Array.from({ length: 30 }, (_, i) => `fotos/finalimage/Chale/${i + 1}.png`);
 
 function createCards() {
   const container = document.querySelector(".card-container");
@@ -15,7 +15,7 @@ function createCards() {
     cardElement.appendChild(imgElement);
 
     cardElement.addEventListener("click", () => {
-      window.location.href = `loja/${card}.html`;
+      window.location.href = `storepages/${card}.html`;
     });
 
     container.appendChild(cardElement);
