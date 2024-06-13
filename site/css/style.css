@@ -2269,11 +2269,11 @@ html .list-inline-md > * {
 }
 
 .list-marked-secondary > li::before {
-	background: #50ba87;
+	background: #9C7E62;
 }
 
 .list-marked-primary > li::before {
-	background: #01b3a7;
+	background: #9C7E62;
 }
 
 * + .list-marked {
@@ -6519,11 +6519,11 @@ textarea.textarea-lg {
 }
 
 .quote-lisa-2 .quote-lisa-text::before, .quote-lisa-2 .quote-lisa-text::after {
-	color: #01b3a7;
+	color: #ffffff;
 }
 
 .quote-lisa-2 .quote-lisa-cite a:hover {
-	color: #01b3a7;
+	color: red;
 }
 
 .quote-lisa-2 .quote-lisa-status {
@@ -6548,7 +6548,7 @@ textarea.textarea-lg {
 	font-size: 48px;
 	line-height: 1;
 	font-family: "Montserrat", sans-serif, Arial, sans-serif;
-	color: #50ba87;
+	color: #9C7E62;
 }
 
 .quote-lisa-text::before {
@@ -13452,7 +13452,7 @@ html:not(.lt-ie10) .not-animated {
 	width: 36px;
 	height: 36px;
 	margin: 0 auto;
-	border: 3px solid #01b3a7;
+	border: 3px solid #9C7E62;
 	border-radius: 50%;
 	border-left-color: transparent;
 	border-bottom-color: transparent;
